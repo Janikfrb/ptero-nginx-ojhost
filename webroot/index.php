@@ -7,7 +7,7 @@
     </head>
     <body>
     <header>
-    <h1><b>oneJanik Hosting</b></h1>
+    <h1><b>Lighthouse Hosting</b></h1>
     </header><br><br>
     <h3>Hurra! Deine Seite ist fertig eingerichtet.</h3><br>
 <br><h5>Deine Nächsten Schritte:</h5><br>

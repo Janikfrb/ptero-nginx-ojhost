@@ -31,7 +31,7 @@ background: radial-gradient(circle, rgba(93,60,1,1) 8%, rgba(37,6,110,1) 48%, rg
  </div>
 </div>
      <footer class="position-absolute bottom-0 start-50 translate-middle-x">
-        <a href="https://discord.com/invite/zRbKpeHUAu"><p>Have any questions?</p></a>, <a href="https://blog.lighthouse-hosting.com/"><p>Need Help?</p></a>
+        <a href="https://discord.com/invite/zRbKpeHUAu"><p>Have any questions?</p></a> or do you <a href="https://blog.lighthouse-hosting.com/"><p>Need Help?</p></a>
      </footer>
          
    
